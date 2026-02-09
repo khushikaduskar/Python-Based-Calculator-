@@ -54,4 +54,3 @@ The calculator accepts user input and displays the calculated result instantly.
 - Understanding GUI development
 - Educational and academic use
 
-## Conclusion
